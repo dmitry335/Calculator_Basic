@@ -32,11 +32,11 @@ class MainActivity : AppCompatActivity() {
 
         val editText = findViewById<EditText>(R.id.editText)
 
-        var result: Double = 0.0
-        var txt2Display: String = "0"
+        var txt2Display = "0"
         var previousNumber = 0.0
 
         var action: Char? = null
+
 
 
 
@@ -75,7 +75,6 @@ class MainActivity : AppCompatActivity() {
         }
 
         fun buttonPressedClear() {
-            result = 0.0
             previousNumber = 0.0
             txt2Display = "0"
             display()

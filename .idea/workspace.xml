@@ -12,7 +12,13 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c24bf2d2-0a23-4058-872a-c6c283d7ce8e" name="Default Changelist" comment="" />
+    <list default="true" id="c24bf2d2-0a23-4058-872a-c6c283d7ce8e" name="Default Changelist" comment="done">
+      <change afterPath="$PROJECT_DIR$/Basic Calculator/task/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/0Dmxt9VDi7KpYFRhVWcjS9_y_Yk=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic Calculator/task/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/0Dmxt9VDi7KpYFRhVWcjS9_y_Yk=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic Calculator/task/build/intermediates/incremental/release-mergeJavaRes/zip-cache/0Dmxt9VDi7KpYFRhVWcjS9_y_Yk=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basic Calculator/task/build/intermediates/incremental/release-mergeNativeLibs/zip-cache/0Dmxt9VDi7KpYFRhVWcjS9_y_Yk=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -112,6 +118,18 @@
       <option name="presentableId" value="Default" />
       <updated>1647779133454</updated>
     </task>
+    <task id="LOCAL-00001" summary="done">
+      <created>1647801762471</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647801762471</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="done" />
+    <option name="LAST_COMMIT_MESSAGE" value="done" />
   </component>
 </project>
