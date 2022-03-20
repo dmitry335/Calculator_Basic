@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">#383838</item>
+
+        <item name="android:buttonStyle">@style/buttonX</item>
+
+    </style>
+
+    <style name="buttonX" parent="Widget.AppCompat.Button.Colored">
+        <item name="android:textColor">#eeeeee</item>
+        <item name="android:textSize">30dp</item>
+
+    </style>
+
+
+
+</resources>
